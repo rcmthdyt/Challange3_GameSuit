@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Challange 3 Game Suit</string>
+    <string name="app_title_text">
+        <item><font color='#f6b26b'>Kertas</font></item>\n
+        <item><font color='#93c47d'>Gunting</font></item>\n
+        <item><font color='#c27ba0'>Batu</font></item>
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
